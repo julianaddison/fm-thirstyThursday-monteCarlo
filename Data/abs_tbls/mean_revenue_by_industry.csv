@@ -1,0 +1,21 @@
+ANZAC_Standard_Industry,ANZAC_Sub-Category,Micro_mean,Micro_sd,Small_mean,Small_sd,Medium_mean,Medium_sd,Large,Percentage_Share,Percentage_Micro,Percentage_Small,Percentage_Medium,Percentage_US_Sales,ANZAC_industry-sub
+"Agriculture, Forestry, and Fishing",All,2.62,0.1,1.66,0.1,5.01,0.1,20.9,0.072,0.88,0.09,0.02,0.5001,"Agriculture, Forestry, and Fishing_All"
+Mining,All,0.23,0.1,20.52,0.5,145.72,1,"18,101.79",0.0033,0.88,0.09,0.02,0.5001,Mining_All
+Manufacturing,All,2.16,0.1,5.88,0.1,69.17,1,"1,300.25",0.036,0.88,0.09,0.02,0.5001,Manufacturing_All
+Services,"Electricity, Gas, Water and Waste Services",0.8,0.1,8.91,0.1,135.58,1,"7,092.13",0.0033,0.88,0.09,0.02,0,"Services_Electricity, Gas, Water and Waste Services"
+Services,Construction,2.14,0.1,2.13,0.1,11.35,0.5,127.06,0.1714,0.88,0.09,0.02,0,Services_Construction
+Services,Wholesale Trade,1.11,0.1,10.78,0.5,98.37,1,"1,589.65",0.034,0.88,0.09,0.02,0.5001,Services_Wholesale Trade
+Services,Retail Trade,1.77,0.1,5.68,0.1,37.25,1,916.04,0.0609,0.88,0.09,0.02,0.5001,Services_Retail Trade
+Services,Accommodation and Food Services,5.91,0.1,3.36,0.1,15.68,0.5,124.3,0.044,0.88,0.09,0.02,0,Services_Accommodation and Food Services
+Services,"Transport, Postal and Warehousing",5.49,0.1,1.3,0.1,8.6,0.1,257.23,0.0815,0.88,0.09,0.02,0,"Services_Transport, Postal and Warehousing"
+Services,Information Media and Telecommunications,3.6,0.1,1.6,0.1,27.11,0.5,"1,616.45",0.0099,0.88,0.09,0.02,0,Services_Information Media and Telecommunications
+Services,Financial and Insurance Services,0,0,0,0,0,0,0,0.0471,0.88,0.09,0.02,0,Services_Financial and Insurance Services
+Services,"Rental, Hiring and Real Estate Services",2.1,0.1,0.87,0.1,3.18,0.1,34.02,0.1133,0.88,0.09,0.02,0,"Services_Rental, Hiring and Real Estate Services"
+Services,"Professional, Scientific and Technical Services",3.62,0.1,1.58,0.1,11.31,0.5,200.83,0.1313,0.88,0.09,0.02,0,"Services_Professional, Scientific and Technical Services"
+Services,Administrative and Support Services,5.26,0.1,1.51,0.1,12.89,0.5,210.94,0.0444,0.88,0.09,0.02,0,Services_Administrative and Support Services
+Services,Public Administration and Safety,3.66,0.1,2.56,0.1,24.94,0.5,378.02,0.0029,0.88,0.09,0.02,0,Services_Public Administration and Safety
+Services,Education and Training,5.42,0.1,1.56,0.1,18.43,0.5,349.43,0.0153,0.88,0.09,0.02,0,Services_Education and Training
+Services,Health Care and Social Assistance,2.71,0.1,1.47,0.1,6.63,0.1,283.06,0.0664,0.88,0.09,0.02,0,Services_Health Care and Social Assistance
+Services,Arts and Recreation Services,4.56,0.1,1,0.1,14.78,0.5,313.45,0.014,0.88,0.09,0.02,0,Services_Arts and Recreation Services
+Services,Other Services,3.13,0.1,1.88,0.1,7.84,0.1,67.95,0.0476,0.88,0.09,0.02,0,Services_Other Services
+Services,Currently Unknown,0,0,0,0,0,0,0,0.0013,0.88,0.09,0.02,0,Services_Currently Unknown

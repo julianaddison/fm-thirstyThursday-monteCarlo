@@ -1,0 +1,47 @@
+ANZAC_industry-sub_parameter_combination,Industry,Sub-Category_Count,ANZAC_Standard_Industry,ANZAC_Sub-Category,ANZAC_industry-sub
+1,"Agriculture, Forestry, and Fishing",8,"Agriculture, Forestry, and Fishing",All,"Agriculture, Forestry, and Fishing_All"
+2,"Banks, Finance, Insurance, and Investment",3,Services,Financial and Insurance Services,Services_Financial and Insurance Services
+3,"Banks, Finance, Insurance, and Investment",18,Services,Financial and Insurance Services,Services_Financial and Insurance Services
+4,Communications and Telecoms,1,Services,Information Media and Telecommunications,Services_Information Media and Telecommunications
+5,Communications and Telecoms,7,Services,Information Media and Telecommunications,Services_Information Media and Telecommunications
+6,Construction,5,Services,Construction,Services_Construction
+7,Manufacturing,5,Manufacturing,All,Manufacturing_All
+8,Manufacturing,21,Manufacturing,All,Manufacturing_All
+9,Manufacturing,1,Manufacturing,All,Manufacturing_All
+10,Manufacturing,1,Manufacturing,All,Manufacturing_All
+11,Merchandising - Retail,33,Services,Retail Trade,Services_Retail Trade
+12,Merchandising - Wholesale,26,Services,Wholesale Trade,Services_Wholesale Trade
+13,Merchandising - Wholesale,1,Services,Wholesale Trade,Services_Wholesale Trade
+14,Merchandising - Wholesale,1,Services,Wholesale Trade,Services_Wholesale Trade
+15,Mining,11,Mining,All,Mining_All
+16,"Non-Profit, Charities, and Social Services",6,Services,Other Services,Services_Other Services
+17,"Non-Profit, Charities, and Social Services",3,Services,Health Care and Social Assistance,Services_Health Care and Social Assistance
+18,"Non-Profit, Charities, and Social Services",1,Services,Arts and Recreation Services,Services_Arts and Recreation Services
+19,"Non-Profit, Charities, and Social Services",1,Services,Education and Training,Services_Education and Training
+20,"Non-Profit, Charities, and Social Services",1,Services,Health Care and Social Assistance,Services_Health Care and Social Assistance
+21,Public Administration,1,Services,Public Administration and Safety,Services_Public Administration and Safety
+22,Public Administration,5,Services,"Professional, Scientific and Technical Services","Services_Professional, Scientific and Technical Services"
+23,Public Administration,4,Services,Public Administration and Safety,Services_Public Administration and Safety
+24,Public Administration,1,Services,"Professional, Scientific and Technical Services","Services_Professional, Scientific and Technical Services"
+25,Services,3,Services,Other Services,Services_Other Services
+26,Services,1,Services,Health Care and Social Assistance,Services_Health Care and Social Assistance
+27,Services,1,Services,Arts and Recreation Services,Services_Arts and Recreation Services
+28,Services,1,Services,"Rental, Hiring and Real Estate Services","Services_Rental, Hiring and Real Estate Services"
+29,Services,2,Services,Other Services,Services_Other Services
+30,Services,1,Services,Arts and Recreation Services,Services_Arts and Recreation Services
+31,Services,1,Services,Education and Training,Services_Education and Training
+32,Services,1,Services,"Professional, Scientific and Technical Services","Services_Professional, Scientific and Technical Services"
+33,Services,1,Services,"Professional, Scientific and Technical Services","Services_Professional, Scientific and Technical Services"
+34,Services,1,Services,Education and Training,Services_Education and Training
+35,Services,5,Services,"Professional, Scientific and Technical Services","Services_Professional, Scientific and Technical Services"
+36,Services,2,Services,Accommodation and Food Services,Services_Accommodation and Food Services
+37,Services,1,Services,Administrative and Support Services,Services_Administrative and Support Services
+38,Services,1,Services,Other Services,Services_Other Services
+39,Services,1,Services,Arts and Recreation Services,Services_Arts and Recreation Services
+40,Services,1,Services,Other Services,Services_Other Services
+41,Services,2,Services,Health Care and Social Assistance,Services_Health Care and Social Assistance
+42,Services,1,Services,"Professional, Scientific and Technical Services","Services_Professional, Scientific and Technical Services"
+43,Services,1,Services,"Transport, Postal and Warehousing","Services_Transport, Postal and Warehousing"
+44,Transportation,5,Services,"Transport, Postal and Warehousing","Services_Transport, Postal and Warehousing"
+45,Transportation,1,Services,"Transport, Postal and Warehousing","Services_Transport, Postal and Warehousing"
+46,Utilities and Infrastructure,2,Services,"Electricity, Gas, Water and Waste Services","Services_Electricity, Gas, Water and Waste Services"
